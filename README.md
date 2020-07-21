@@ -10,6 +10,7 @@ Instalation
 4; cd /data/data/com.termux/files/usr/etc && nano bash.bashrc
 5; ./djlock/login.sh && clear    past in bash.bashrc after fi 
 example: fi
+
          ./djlock/login.sh && clear
          
 6;after past CTRL+s for saveing
