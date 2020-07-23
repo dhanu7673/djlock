@@ -12,8 +12,6 @@ Instalation
      cd djlock && chmod 777 * && ./setup.sh
 
 
-defult old password=1234
-
 
      cd /data/data/com.termux/files/usr/etc && nano bash.bashrc
 
@@ -21,10 +19,22 @@ defult old password=1234
      ./djlock/login.sh && clear  
 
  past in bash.bashrc after fi 
+
+
 example: fi
+
          cd $HOME && ./djlock/login.sh && clear
          
 6;after past CTRL+s for saveing
              CTRL+x for exit 
 7; close ur termux and reopen termux
+
+ Defult password= 1234
+
+        cd djlock && ./setup.sh
+
+type old password 1234
+
+Then set your new password 
+
 
