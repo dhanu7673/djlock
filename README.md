@@ -16,9 +16,8 @@ Instalation
      cd /data/data/com.termux/files/usr/etc && nano bash.bashrc
 
   
-     cd $HOME && ./djlock/login.sh && clear
-      
- past it in bash.bashrc just below fi
+  cd $HOME && ./djlock/login.sh && clear   
+past it in bash.bashrc just below fi
        
   
 6;after past CTRL+s for saveing
