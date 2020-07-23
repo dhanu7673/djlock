@@ -15,8 +15,7 @@ Instalation
 
      cd /data/data/com.termux/files/usr/etc && nano bash.bashrc
 
-
-     ./djlock/login.sh && clear  
+  
 
  past in bash.bashrc after fi 
 
