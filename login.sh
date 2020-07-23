@@ -1,4 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
+clear
 tput setaf 1; echo "Made by Hackerdj"
 echo 
 echo -e "\033[32m$(figlet -f ASCII-Shadow '  TERMUX')\033[0m" | lolcat -t
