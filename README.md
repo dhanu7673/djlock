@@ -16,14 +16,11 @@ Instalation
      cd /data/data/com.termux/files/usr/etc && nano bash.bashrc
 
   
-
- past in bash.bashrc after fi below
-
-
-example: fi
-
-         cd $HOME && ./djlock/login.sh && clear
-         
+     cd $HOME && ./djlock/login.sh && clear
+      
+ past it in bash.bashrc just below fi
+       
+  
 6;after past CTRL+s for saveing
              CTRL+x for exit 
 7; close ur termux and reopen termux
