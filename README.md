@@ -9,7 +9,7 @@ Instalation
       git clone https://github.com/dhanu7673/djlock
 
 
-     cd djlock && chmod 777 * && ./setup.sh
+     cd djlock && chmod 777 *
 
 
 
@@ -17,7 +17,7 @@ Instalation
 
   
 
- past in bash.bashrc after fi 
+ past in bash.bashrc after fi below
 
 
 example: fi
